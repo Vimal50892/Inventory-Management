@@ -3,3 +3,15 @@ class Main{
         System.out.println("Main class");
     }
 }
+class Item{
+
+}
+class Inventory{
+
+}
+class Admin{
+
+}
+class Manager{
+
+}
